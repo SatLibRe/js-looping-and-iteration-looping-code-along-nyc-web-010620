@@ -7,3 +7,10 @@ function writeCards(arr){
   }
   return t_arr
 }
+
+function countDown(num){
+ while(num > 0){
+   console.log(num)
+   num --; 
+ } 
+}
